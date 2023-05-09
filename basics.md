@@ -1,5 +1,7 @@
 # Some basic SQL tips
 
+## Rows and columns
+
 Get number of rows in SQL table:
 
 ```SQL
