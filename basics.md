@@ -1,14 +1,17 @@
 # Some basic SQL tips
 
 Get number of rows in SQL table:
+
 ```SQL
 SELECT
 COUNT(*)
 FROM [database].[dbo].[table]
 ```
+
 <br>
 <br>
 Get number of columns in SQL table:
+
 ```SQL
 SELECT
 COUNT(COLUMN_NAME)
