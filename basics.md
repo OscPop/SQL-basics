@@ -8,7 +8,6 @@ COUNT(*)
 FROM [database].[dbo].[table]
 ```
 
-<br>
 Get number of columns in SQL table:
 
 ```SQL
