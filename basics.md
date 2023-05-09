@@ -9,7 +9,6 @@ FROM [database].[dbo].[table]
 ```
 
 <br>
-<br>
 Get number of columns in SQL table:
 
 ```SQL
